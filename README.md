@@ -1,4 +1,5 @@
 [![Build Status](https://ovicus.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/ovicus.mslearn-tailspin-spacegame-web?branchName=master)](https://ovicus.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=1&branchName=master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ovicus_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=ovicus_mslearn-tailspin-spacegame-web)
 
 # Contributing
 
